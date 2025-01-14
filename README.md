@@ -1,1 +1,1 @@
-# flipkart_sentimental_analysis
+# Amazon Data sentimental analysis
